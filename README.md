@@ -1,6 +1,6 @@
 # Tests unitaires - TP : App Scan Food
 
-Test unitaires du TP App Scan Food
+TP App Scan Food et ses tests unitaires
 
 ## Installation
 

@@ -2,6 +2,8 @@
 
 TP App Scan Food et ses tests unitaires
 
+Auteurs : Hugo BLANDIN, Raphaël PAVARD
+
 ## Installation
 
 Récupérez le dépôt
